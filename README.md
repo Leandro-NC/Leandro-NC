@@ -2,8 +2,7 @@
 <h1 align="center">🦖 Olá, Me chamo Leandro 🦖</h1>
 
 <p align="center">
-  Estudante de <b>Sistemas de informação</b> | Foco em <b>Desenvolvimento & programção</b> </b><br/>
-  💻 Desenvolvimento Web | 
+  Estudante de <b>Sistemas de informação</b> | 
 </p>
 
 ---
